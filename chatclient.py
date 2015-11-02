@@ -1,11 +1,7 @@
 '''
-Project 1: Client-Server Network Application (Chat Program)
+Client-Server Network Application (Chat Program)
 
 Programmer: Bobby Hines
-
-Due Date: November 1st, 2015
-
-CS372-400, Fall 2015       Instructor: Stephen Redfield 
 
 Description:
 This is the "client" side of the chat program, although it has 
